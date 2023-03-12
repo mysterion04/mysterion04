@@ -2,7 +2,7 @@
 ### This is Mujtaba aka _mysterion_
 ## Web dev | Mobile dev | Cybersec |
 ### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mysterion04/)
-### [![Pexels](https://logos.bugcrowdusercontent.com/logos/7cfc/9afe/eadc3233/49c354597a8fbf87c32726929fbe4ca5_pexels.jpg) Pexels](https://www.pexels.com/@mysterion-m-342713/)
+### [![Pexels](https://i.ibb.co/Pt07FnM/Screenshot-2023-03-12-at-9-28-21-PM.png) Pexels](https://www.pexels.com/@mysterion-m-342713/)
 <!--
 **mysterion04/mysterion04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
